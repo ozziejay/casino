@@ -66,6 +66,7 @@ def Slots(BetMoney):
                 Main()
             Slots(MoneyEarnt)
         print("You are out of money sorry")
+        MoneyEarnt = 0
         time.sleep(2)
         Main()
 
