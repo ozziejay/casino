@@ -2,6 +2,6 @@
 
 ## What does it currently include?
 - Slot Machine 
-- Black Jack
+- Blackjack
 - Roulette
 More will be added soon!
