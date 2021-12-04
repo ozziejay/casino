@@ -4,4 +4,5 @@
 - Slot Machine 
 - Blackjack
 - Roulette
+
 More will be added soon!
