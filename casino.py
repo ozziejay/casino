@@ -215,7 +215,7 @@ def roulette(roulette_total_money):
     roulette_bet=int(input("£"))
     print("would you like to bet on colours or numbers, type (C) for colours or (N) for numbers")
     bet_select=input().lower()
-    if float(random_number) % 2 == 0:    #if d divided by 2 is equal to 0 (% means divide)
+    if float(random_number) % 2 == 0:    
         roulette_colour = "black"
     elif float(random_number) == 0:
         roulette_colour = "green"
